@@ -2,7 +2,7 @@ Hi there, I'm Dhanushkar 👋
 AI & DS student at Datta Meghe College Of Engineering
 
 # 💫 About Me:
-😤 About Me<br>Passionate about Frontend Development and currently diving into Artificial Intelligence and Machine Learning.<br>I have hands-on experience with HTML, CSS, JavaScript, and React for frontend development.<br>Currently strengthening my skills in Python and exploring the exciting world of Machine Learning.<br><br>⚙️ Projects I've Worked On<br>RecipeHub – A recipe sharing platform created as part of a semester project using HTML, CSS, and JavaScript.<br>FishTankFR – A fundraiser platform developed during a group project using React, Python (Django), and SQL.<br>(Note: Both projects were completed as part of team efforts.)<br><br>🎯 Current Focus<br>Completing my journey in mastering Python.<br>Building beginner-friendly Machine Learning projects to strengthen my foundation.<br>Constantly learning and exploring new technologies to improve my skills.
+😤 About Me<br>Passionate about Artificial Intelligence and Machine Learning.<br>I have hands-on experience with Python,Tensorflow,Scikit-learn.<br>Currently strengthening my skills in Artificial Intelligence.<br><br>⚙️ Projects I've Worked On<br>RecipeHub – A recipe sharing platform created as part of a semester project using HTML, CSS, and JavaScript.<br>FishTankFR – A fundraiser platform developed during a group project using React, Python (Django), and SQL.<br>(Note: Both projects were completed as part of team efforts.)<br><br>🎯 Current Focus<br>Completing my journey in mastering Python.<br>Building beginner-friendly Machine Learning projects to strengthen my foundation.<br>Constantly learning and exploring new technologies to improve my skills.
 
 
 ## 🌐 Socials:
