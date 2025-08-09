@@ -3,8 +3,11 @@
 **`HackHive'25 Runner Up`**
 
 Hi there, I'm Dhanushkar Guin 👋
+
 Welcome to my GitHub! I am passionate about data analysis, machine learning, and quantitative finance, with a strong focus on applying advanced analytics to understand market behavior and trading patterns.
+
 I enjoy transforming complex data into actionable insights through rigorous modeling, statistical analysis, and data visualization. My projects often involve providing AI/ML solutions for real-life problems.
+
 I’m always eager to learn, collaborate, and contribute to open-source projects. Let’s connect!
 
 ---
