@@ -28,12 +28,6 @@ I’m always eager to learn, collaborate, and contribute to open-source projects
 
 #
 
-### 📊 Stats
-
-![Dhanushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkarguin&show_icons=true&theme=catppuccin_latte)
-
-#
-
 ### 🙇 Socials 
 
 [Instagram](https://instagram.com/Dhanu._.exe)
